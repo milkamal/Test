@@ -1,0 +1,11 @@
+/home/tester/C++/Cmake/Hello-World-Project/dotnet/bin/Debug/netcoreapp3.1/dotnet
+/home/tester/C++/Cmake/Hello-World-Project/dotnet/bin/Debug/netcoreapp3.1/dotnet.deps.json
+/home/tester/C++/Cmake/Hello-World-Project/dotnet/bin/Debug/netcoreapp3.1/dotnet.runtimeconfig.json
+/home/tester/C++/Cmake/Hello-World-Project/dotnet/bin/Debug/netcoreapp3.1/dotnet.runtimeconfig.dev.json
+/home/tester/C++/Cmake/Hello-World-Project/dotnet/bin/Debug/netcoreapp3.1/dotnet.dll
+/home/tester/C++/Cmake/Hello-World-Project/dotnet/bin/Debug/netcoreapp3.1/dotnet.pdb
+/home/tester/C++/Cmake/Hello-World-Project/dotnet/obj/Debug/netcoreapp3.1/dotnet.csprojAssemblyReference.cache
+/home/tester/C++/Cmake/Hello-World-Project/dotnet/obj/Debug/netcoreapp3.1/dotnet.AssemblyInfoInputs.cache
+/home/tester/C++/Cmake/Hello-World-Project/dotnet/obj/Debug/netcoreapp3.1/dotnet.AssemblyInfo.cs
+/home/tester/C++/Cmake/Hello-World-Project/dotnet/obj/Debug/netcoreapp3.1/dotnet.dll
+/home/tester/C++/Cmake/Hello-World-Project/dotnet/obj/Debug/netcoreapp3.1/dotnet.pdb
